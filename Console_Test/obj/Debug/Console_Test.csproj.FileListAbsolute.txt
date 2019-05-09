@@ -1,0 +1,7 @@
+C:\Users\JUN\source\repos\Console_Test\Console_Test\bin\Debug\Console_Test.exe.config
+C:\Users\JUN\source\repos\Console_Test\Console_Test\bin\Debug\Console_Test.exe
+C:\Users\JUN\source\repos\Console_Test\Console_Test\bin\Debug\Console_Test.pdb
+C:\Users\JUN\source\repos\Console_Test\Console_Test\obj\Debug\Console_Test.csprojResolveAssemblyReference.cache
+C:\Users\JUN\source\repos\Console_Test\Console_Test\obj\Debug\Console_Test.csproj.CoreCompileInputs.cache
+C:\Users\JUN\source\repos\Console_Test\Console_Test\obj\Debug\Console_Test.exe
+C:\Users\JUN\source\repos\Console_Test\Console_Test\obj\Debug\Console_Test.pdb
